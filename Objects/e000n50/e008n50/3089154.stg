@@ -333,12 +333,20 @@ OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 8.5882313 50.05117843 113 110.5
 OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 8.58930751 50.05143919 113.14 110.5
 OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 8.59037887 50.05169746 113.25 110.5
 OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 8.59145145 50.05195519 113.29 110.5
-OBJECT_SHARED Models/Airport/eddf_blast_deflector_high.xml 8.56965973 50.04582417 107.26 337.4
+#Blast deflectors west to east
+OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.54529486 50.02645538 103.2759 21.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.54557916 50.02599692 103.3439 21.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.54573039 50.02591117 103.3793 201.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.54544942 50.02636857 103.2721 202.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/eddf_blast_deflector_high.xml 8.54259774 50.02568592 103.4238 200.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/eddf_blast_deflector_high.xml 8.54287264 50.02522387 103.4887 200.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/eddf_blast_deflector_high.xml 8.54258531 50.02550470 103.4749 21.0 0.0 -0.0
+#OBJECT_SHARED Models/Airport/eddf_blast_deflector_high.xml 8.56965973 50.04582417 107.26 337.4
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.55677456 50.04229721 104.17 110.9
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.5586069 50.04273068 104.45 110.9
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.5734186 50.04959499 110.79 174.2
 OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.57361041 50.0500775 111.29 152.9
-OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.57993886 50.04711937 109.51 19.6
+#OBJECT_SHARED Models/Airport/eddf_blast_deflector_low.xml 8.57993886 50.04711937 109.51 19.6
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 8.58957769 50.04917061 112.13 289.7
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 8.59021826 50.04932176 112.23 289.7
 OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 8.59085898 50.04947388 112.39 289.7
@@ -438,3 +446,5 @@ OBJECT_STATIC airrail.ac 8.56861462 50.0527176 114.84 107.8
 OBJECT_STATIC nwbridge2.xml 8.515038 50.036813 102.49 93.3
 OBJECT_STATIC nwbridge1.xml 8.5439508 50.044228 108.55 94.9
 OBJECT_STATIC EDDF_A_plus.ac 8.55861701 50.04701719 107.09 110.5
+OBJECT_STATIC EDDF_LH_Technik_Logistic_Services.ac 8.54780535 50.04586048 105.4208 20.7 0.0 -0.0
+OBJECT_STATIC EDDF_LH_Cargo1.ac 8.54345198 50.04122913 103.4946 110.7 -0.0 -0.0
