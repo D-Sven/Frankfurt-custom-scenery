@@ -5975,7 +5975,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU3S" Runways="18">
+    <Sid Name="MARUN7S" Runways="18">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -6096,7 +6096,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU4E.07C" Runways="07C">
+    <Sid Name="OBOKA1E" Runways="07C">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -6152,10 +6152,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-        <Name>TESGA</Name>
+        <Name>KUSOM</Name>
         <Type>Normal</Type>
-        <Latitude>50.444900</Latitude>
-        <Longitude>8.618872</Longitude>
+        <Latitude>50.381667</Latitude>
+        <Longitude>8.365833</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6165,10 +6165,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="6">
-        <Name>ALIDI</Name>
+        <Name>GUBAX</Name>
         <Type>Normal</Type>
-        <Latitude>50.721683</Latitude>
-        <Longitude>8.657825</Longitude>
+        <Latitude>50.290333</Latitude>
+        <Longitude>7.911000</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6178,10 +6178,36 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="7">
-        <Name>MARUN</Name>
+        <Name>RAVKI</Name>
         <Type>Normal</Type>
-        <Latitude>50.821167</Latitude>
-        <Longitude>8.671942</Longitude>
+        <Latitude>50.361667</Latitude>
+        <Longitude>7.665000</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>DITAM</Name>
+        <Type>Normal</Type>
+        <Latitude>50.558167</Latitude>
+        <Longitude>7.529500</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="9">
+        <Name>OBOKA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.745000</Latitude>
+        <Longitude>7.338000</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6191,7 +6217,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU4E.07R" Runways="07R">
+    <Sid Name="OBOKA1E" Runways="07R">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -6247,10 +6273,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-        <Name>TESGA</Name>
+        <Name>KUSOM</Name>
         <Type>Normal</Type>
-        <Latitude>50.444900</Latitude>
-        <Longitude>8.618872</Longitude>
+        <Latitude>50.381667</Latitude>
+        <Longitude>8.365833</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6260,10 +6286,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="6">
-        <Name>ALIDI</Name>
+        <Name>GUBAX</Name>
         <Type>Normal</Type>
-        <Latitude>50.721683</Latitude>
-        <Longitude>8.657825</Longitude>
+        <Latitude>50.290333</Latitude>
+        <Longitude>7.911000</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6273,10 +6299,36 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="7">
-        <Name>MARUN</Name>
+        <Name>RAVKI</Name>
         <Type>Normal</Type>
-        <Latitude>50.821167</Latitude>
-        <Longitude>8.671942</Longitude>
+        <Latitude>50.361667</Latitude>
+        <Longitude>7.665000</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>DITAM</Name>
+        <Type>Normal</Type>
+        <Latitude>50.558167</Latitude>
+        <Longitude>7.529500</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="9">
+        <Name>OBOKA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.745000</Latitude>
+        <Longitude>7.338000</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6286,7 +6338,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU4G.25C" Runways="25C">
+    <Sid Name="MARUN8G" Runways="25C">
       <Sid_Waypoint ID="1">
         <Name>DF234</Name>
         <Type>Normal</Type>
@@ -6405,7 +6457,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU4G.25L" Runways="25L">
+    <Sid Name="MARU8G" Runways="25L">
       <Sid_Waypoint ID="1">
         <Name>DF235</Name>
         <Type>Normal</Type>
@@ -6643,7 +6695,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU5N.25L" Runways="25L">
+    <Sid Name="MARU8N" Runways="25L">
       <Sid_Waypoint ID="1">
         <Name>DF135</Name>
         <Type>Normal</Type>
@@ -6762,7 +6814,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU8D.07L" Runways="07L">
+    <Sid Name="OBOKA1D" Runways="07C">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -6805,10 +6857,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>TOBAK</Name>
+        <Name>ODAGA</Name>
         <Type>Normal</Type>
-        <Latitude>50.571647</Latitude>
-        <Longitude>8.785781</Longitude>
+        <Latitude>50.326689</Latitude>
+        <Longitude>8.618878</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6818,10 +6870,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-        <Name>APROX</Name>
+        <Name>KUSOM</Name>
         <Type>Normal</Type>
-        <Latitude>50.725242</Latitude>
-        <Longitude>8.715856</Longitude>
+        <Latitude>50.381570</Latitude>
+        <Longitude>8.365897</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6831,10 +6883,49 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="6">
-        <Name>MARUN</Name>
+        <Name>GUBAX</Name>
         <Type>Normal</Type>
-        <Latitude>50.821167</Latitude>
-        <Longitude>8.671942</Longitude>
+        <Latitude>50.290278</Latitude>
+        <Longitude>7.911200</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>RAVKI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.361664</Latitude>
+        <Longitude>7.664903</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>DITAM</Name>
+        <Type>Normal</Type>
+        <Latitude>50.558000</Latitude>
+        <Longitude>7.529500</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="9">
+        <Name>OBOKA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.744864</Latitude>
+        <Longitude>7.338047</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6844,7 +6935,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MARU8D.07R" Runways="07R">
+    <Sid Name="OBOKA1D" Runways="07R">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -6887,10 +6978,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>TOBAK</Name>
+        <Name>ODAGA</Name>
         <Type>Normal</Type>
-        <Latitude>50.571647</Latitude>
-        <Longitude>8.785781</Longitude>
+        <Latitude>50.326689</Latitude>
+        <Longitude>8.618878</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6900,10 +6991,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-        <Name>APROX</Name>
+        <Name>KUSOM</Name>
         <Type>Normal</Type>
-        <Latitude>50.725242</Latitude>
-        <Longitude>8.715856</Longitude>
+        <Latitude>50.381570</Latitude>
+        <Longitude>8.365897</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6913,10 +7004,49 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="6">
-        <Name>MARUN</Name>
+        <Name>GUBAX</Name>
         <Type>Normal</Type>
-        <Latitude>50.821167</Latitude>
-        <Longitude>8.671942</Longitude>
+        <Latitude>50.290278</Latitude>
+        <Longitude>7.911200</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>RAVKI</Name>
+        <Type>Normal</Type>
+        <Latitude>50.361664</Latitude>
+        <Longitude>7.664903</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
+        <Name>DITAM</Name>
+        <Type>Normal</Type>
+        <Latitude>50.558000</Latitude>
+        <Longitude>7.529500</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="9">
+        <Name>OBOKA</Name>
+        <Type>Normal</Type>
+        <Latitude>50.744864</Latitude>
+        <Longitude>7.338047</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -6926,7 +7056,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MTR4C.07L" Runways="07L">
+    <Sid Name="METRO5C" Runways="07C">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -6969,7 +7099,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="MTR4C.07R" Runways="07R">
+    <Sid Name="METRO5C" Runways="07R">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -7012,7 +7142,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="NOMB6F.25C" Runways="25C">
+<!--    <Sid Name="NOMB6F.25C" Runways="25C">
       <Sid_Waypoint ID="1">
         <Name>DF134</Name>
         <Type>Normal</Type>
@@ -10273,8 +10403,8 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-    </Sid>
-    <Sid Name="SOBR3P.25C" Runways="25C">
+    </Sid> -->
+    <Sid Name="SOBRA5P" Runways="25C">
       <Sid_Waypoint ID="1">
         <Name>DF134</Name>
         <Type>Normal</Type>
@@ -10293,7 +10423,7 @@ unsafe to do so.
         <Type>Normal</Type>
         <Latitude>49.972286</Latitude>
         <Longitude>8.422578</Longitude>
-        <Speed>0</Speed>
+        <Speed>220</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
         <AltitudeRestriction>at</AltitudeRestriction>
@@ -10328,7 +10458,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR3P.25L" Runways="25L">
+    <Sid Name="SOBRA5P" Runways="25L">
       <Sid_Waypoint ID="1">
         <Name>DF135</Name>
         <Type>Normal</Type>
@@ -10674,7 +10804,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4E.07C" Runways="07C">
+    <Sid Name="SOBRA6E" Runways="07C">
       <Sid_Waypoint ID="1">
         <Name>DF144</Name>
         <Type>Normal</Type>
@@ -10767,7 +10897,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4E.07R" Runways="07R">
+    <Sid Name="SOBRA6E" Runways="07R">
       <Sid_Waypoint ID="1">
         <Name>DF145</Name>
         <Type>Normal</Type>
@@ -10860,7 +10990,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4F.25C" Runways="25C">
+    <Sid Name="SOBRA6F" Runways="25C">
       <Sid_Waypoint ID="1">
         <Name>DF134</Name>
         <Type>Normal</Type>
@@ -10892,7 +11022,7 @@ unsafe to do so.
         <Type>Normal</Type>
         <Latitude>49.932059</Latitude>
         <Longitude>8.454664</Longitude>
-        <Speed>0</Speed>
+        <Speed>220</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
         <AltitudeRestriction>at</AltitudeRestriction>
@@ -10940,7 +11070,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4F.25L" Runways="25L">
+    <Sid Name="SOBRA6F" Runways="25L">
       <Sid_Waypoint ID="1">
         <Name>DF135</Name>
         <Type>Normal</Type>
@@ -10972,7 +11102,7 @@ unsafe to do so.
         <Type>Normal</Type>
         <Latitude>49.932059</Latitude>
         <Longitude>8.454664</Longitude>
-        <Speed>0</Speed>
+        <Speed>220</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
         <AltitudeRestriction>at</AltitudeRestriction>
@@ -11020,7 +11150,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4G.25C" Runways="25C">
+    <Sid Name="SOBRA6N" Runways="25C">
       <Sid_Waypoint ID="1">
         <Name>DF134</Name>
         <Type>Normal</Type>
@@ -11035,11 +11165,11 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>DF141</Name>
+        <Name>DF162</Name>
         <Type>Normal</Type>
-        <Latitude>50.017911</Latitude>
-        <Longitude>8.502064</Longitude>
-        <Speed>0</Speed>
+        <Latitude>50.009833</Latitude>
+        <Longitude>8.496333</Longitude>
+        <Speed>220</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
         <AltitudeRestriction>at</AltitudeRestriction>
@@ -11048,6 +11178,19 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
+        <Name>DF166</Name>
+        <Type>Normal</Type>
+        <Latitude>49.954833</Latitude>
+        <Longitude>8.488833</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
         <Name>DF163</Name>
         <Type>Normal</Type>
         <Latitude>49.932059</Latitude>
@@ -11060,7 +11203,7 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
+      <Sid_Waypoint ID="5">
         <Name>DF201</Name>
         <Type>Normal</Type>
         <Latitude>49.787550</Latitude>
@@ -11073,7 +11216,7 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
+      <Sid_Waypoint ID="6">
         <Name>DONAB</Name>
         <Type>Normal</Type>
         <Latitude>49.821081</Latitude>
@@ -11086,7 +11229,7 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
+      <Sid_Waypoint ID="7">
         <Name>SOBRA</Name>
         <Type>Normal</Type>
         <Latitude>49.860834</Latitude>
@@ -11100,12 +11243,12 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4G.25L" Runways="25L">
+    <Sid Name="SOBR6N" Runways="25L">
       <Sid_Waypoint ID="1">
-        <Name>DF135</Name>
+        <Name>DF134</Name>
         <Type>Normal</Type>
-        <Latitude>50.024436</Latitude>
-        <Longitude>8.521228</Longitude>
+        <Latitude>50.028817</Latitude>
+        <Longitude>8.518772</Longitude>
         <Speed>0</Speed>
         <Altitude>800</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -11115,11 +11258,11 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="2">
-        <Name>DF142</Name>
+        <Name>DF165</Name>
         <Type>Normal</Type>
-        <Latitude>50.008536</Latitude>
-        <Longitude>8.496883</Longitude>
-        <Speed>0</Speed>
+        <Latitude>50.002333</Latitude>
+        <Longitude>8.495167</Longitude>
+        <Speed>220</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
         <AltitudeRestriction>at</AltitudeRestriction>
@@ -11128,6 +11271,19 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="3">
+        <Name>DF166</Name>
+        <Type>Normal</Type>
+        <Latitude>49.954833</Latitude>
+        <Longitude>8.488833</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="4">
         <Name>DF163</Name>
         <Type>Normal</Type>
         <Latitude>49.932059</Latitude>
@@ -11140,7 +11296,7 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
+      <Sid_Waypoint ID="5">
         <Name>DF201</Name>
         <Type>Normal</Type>
         <Latitude>49.787550</Latitude>
@@ -11153,7 +11309,7 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
+      <Sid_Waypoint ID="6">
         <Name>DONAB</Name>
         <Type>Normal</Type>
         <Latitude>49.821081</Latitude>
@@ -11166,7 +11322,7 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
+      <Sid_Waypoint ID="7">
         <Name>SOBRA</Name>
         <Type>Normal</Type>
         <Latitude>49.860834</Latitude>
@@ -11180,7 +11336,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4L" Runways="18">
+    <Sid Name="SOBRA1L" Runways="18">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -11262,7 +11418,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SOBR4U" Runways="18">
+<!--    <Sid Name="SOBR4U" Runways="18">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -11343,168 +11499,8 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-    </Sid>
-    <Sid Name="SOBR5N.25C" Runways="25C">
-      <Sid_Waypoint ID="1">
-        <Name>DF134</Name>
-        <Type>Normal</Type>
-        <Latitude>50.028817</Latitude>
-        <Longitude>8.518772</Longitude>
-        <Speed>0</Speed>
-        <Altitude>800</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>above</AltitudeRestriction>
-        <Flytype>Fly-over</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>DF162</Name>
-        <Type>Normal</Type>
-        <Latitude>50.009789</Latitude>
-        <Longitude>8.496250</Longitude>
-        <Speed>220</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>DF166</Name>
-        <Type>Normal</Type>
-        <Latitude>49.954900</Latitude>
-        <Longitude>8.488833</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>DF201</Name>
-        <Type>Normal</Type>
-        <Latitude>49.787550</Latitude>
-        <Longitude>8.239528</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>DONAB</Name>
-        <Type>Normal</Type>
-        <Latitude>49.821081</Latitude>
-        <Longitude>8.029119</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>SOBRA</Name>
-        <Type>Normal</Type>
-        <Latitude>49.860834</Latitude>
-        <Longitude>7.775500</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="SOBR5N.25L" Runways="25L">
-      <Sid_Waypoint ID="1">
-        <Name>DF135</Name>
-        <Type>Normal</Type>
-        <Latitude>50.024436</Latitude>
-        <Longitude>8.521228</Longitude>
-        <Speed>0</Speed>
-        <Altitude>800</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>above</AltitudeRestriction>
-        <Flytype>Fly-over</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="2">
-        <Name>DF165</Name>
-        <Type>Normal</Type>
-        <Latitude>50.002383</Latitude>
-        <Longitude>8.495195</Longitude>
-        <Speed>220</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="3">
-        <Name>DF166</Name>
-        <Type>Normal</Type>
-        <Latitude>49.954900</Latitude>
-        <Longitude>8.488833</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="4">
-        <Name>DF201</Name>
-        <Type>Normal</Type>
-        <Latitude>49.787550</Latitude>
-        <Longitude>8.239528</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="5">
-        <Name>DONAB</Name>
-        <Type>Normal</Type>
-        <Latitude>49.821081</Latitude>
-        <Longitude>8.029119</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>SOBRA</Name>
-        <Type>Normal</Type>
-        <Latitude>49.860834</Latitude>
-        <Longitude>7.775500</Longitude>
-        <Speed>0</Speed>
-        <Altitude>0</Altitude>
-        <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>at</AltitudeRestriction>
-        <Flytype>Fly-by</Flytype>
-        <BankLimit>25</BankLimit>
-        <Sp_Turn>Auto</Sp_Turn>
-      </Sid_Waypoint>
-    </Sid>
-    <Sid Name="SULU5E.07L" Runways="07L">
+    </Sid>-->
+    <Sid Name="SULUS1D" Runways="07C">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -11525,7 +11521,7 @@ unsafe to do so.
         <Type>Normal</Type>
         <Latitude>50.072742</Latitude>
         <Longitude>8.710714</Longitude>
-        <Speed>0</Speed>
+        <Speed>220</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
         <AltitudeRestriction>at</AltitudeRestriction>
@@ -11547,10 +11543,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>OSBIT</Name>
+        <Name>DF169</Name>
         <Type>Normal</Type>
-        <Latitude>50.070000</Latitude>
-        <Longitude>9.783056</Longitude>
+        <Latitude>50.064500</Latitude>
+        <Longitude>9.283333</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -11560,6 +11556,45 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
+        <Name>AGOLO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.200167</Latitude>
+        <Longitude>9.676167</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>OKTUM</Name>
+        <Type>Normal</Type>
+        <Latitude>50.199667</Latitude>
+        <Longitude>10.010500</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>KOMIB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.073333</Latitude>
+        <Longitude>10.242833</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
         <Name>SULUS</Name>
         <Type>Normal</Type>
         <Latitude>50.075278</Latitude>
@@ -11573,7 +11608,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SULU5E.07R" Runways="07R">
+    <Sid Name="SULUs1D" Runways="07R">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -11594,7 +11629,7 @@ unsafe to do so.
         <Type>Normal</Type>
         <Latitude>50.072742</Latitude>
         <Longitude>8.710714</Longitude>
-        <Speed>0</Speed>
+        <Speed>220</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
         <AltitudeRestriction>at</AltitudeRestriction>
@@ -11616,10 +11651,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>OSBIT</Name>
+        <Name>DF169</Name>
         <Type>Normal</Type>
-        <Latitude>50.070000</Latitude>
-        <Longitude>9.783056</Longitude>
+        <Latitude>50.064500</Latitude>
+        <Longitude>9.283333</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -11629,6 +11664,45 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
+        <Name>AGOLO</Name>
+        <Type>Normal</Type>
+        <Latitude>50.200167</Latitude>
+        <Longitude>9.676167</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="6">
+        <Name>OKTUM</Name>
+        <Type>Normal</Type>
+        <Latitude>50.199667</Latitude>
+        <Longitude>10.010500</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="7">
+        <Name>KOMIB</Name>
+        <Type>Normal</Type>
+        <Latitude>50.073333</Latitude>
+        <Longitude>10.242833</Longitude>
+        <Speed>0</Speed>
+        <Altitude>0</Altitude>
+        <AltitudeCons>0</AltitudeCons>
+        <AltitudeRestriction>at</AltitudeRestriction>
+        <Flytype>Fly-by</Flytype>
+        <BankLimit>25</BankLimit>
+        <Sp_Turn>Auto</Sp_Turn>
+      </Sid_Waypoint>
+      <Sid_Waypoint ID="8">
         <Name>SULUS</Name>
         <Type>Normal</Type>
         <Latitude>50.075278</Latitude>
@@ -11642,7 +11716,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SULU6F.25C" Runways="25C">
+    <Sid Name="SULUS1F" Runways="25C">
       <Sid_Waypoint ID="1">
         <Name>DF134</Name>
         <Type>Normal</Type>
@@ -11709,10 +11783,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="6">
-        <Name>KNG</Name>
+        <Name>AMTIX</Name>
         <Type>Normal</Type>
-        <Latitude>49.762108</Latitude>
-        <Longitude>9.091542</Longitude>
+        <Latitude>49.762167</Latitude>
+        <Longitude>9.091667</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -11722,10 +11796,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="7">
-        <Name>AKONI</Name>
+        <Name>CINDY</Name>
         <Type>Normal</Type>
-        <Latitude>49.746795</Latitude>
-        <Longitude>9.187542</Longitude>
+        <Latitude>49.746667</Latitude>
+        <Longitude>9.187500</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -11774,7 +11848,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SULU6F.25L" Runways="25L">
+    <Sid Name="SULUS1F" Runways="25L">
       <Sid_Waypoint ID="1">
         <Name>DF135</Name>
         <Type>Normal</Type>
@@ -11840,11 +11914,11 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-      <Sid_Waypoint ID="6">
-        <Name>KNG</Name>
+     <Sid_Waypoint ID="6">
+        <Name>AMTIX</Name>
         <Type>Normal</Type>
-        <Latitude>49.762108</Latitude>
-        <Longitude>9.091542</Longitude>
+        <Latitude>49.762167</Latitude>
+        <Longitude>9.091667</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -11854,10 +11928,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="7">
-        <Name>AKONI</Name>
+        <Name>CINDY</Name>
         <Type>Normal</Type>
-        <Latitude>49.746795</Latitude>
-        <Longitude>9.187542</Longitude>
+        <Latitude>49.746667</Latitude>
+        <Longitude>9.187500</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -11906,7 +11980,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SULUS2A" Runways="18">
+    <Sid Name="SULUS9L" Runways="18">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -12001,7 +12075,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SULU6S" Runways="18">
+    <Sid Name="SULUS9S" Runways="18">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -12044,10 +12118,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="4">
-        <Name>KNG</Name>
+        <Name>AMTIX</Name>
         <Type>Normal</Type>
-        <Latitude>49.762108</Latitude>
-        <Longitude>9.091542</Longitude>
+        <Latitude>49.762167</Latitude>
+        <Longitude>9.091667</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -12057,10 +12131,10 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
       <Sid_Waypoint ID="5">
-        <Name>AKONI</Name>
+        <Name>CINDY</Name>
         <Type>Normal</Type>
-        <Latitude>49.746795</Latitude>
-        <Longitude>9.187542</Longitude>
+        <Latitude>49.746667</Latitude>
+        <Longitude>9.187500</Longitude>
         <Speed>0</Speed>
         <Altitude>0</Altitude>
         <AltitudeCons>0</AltitudeCons>
@@ -12109,7 +12183,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="SULU7D.07L" Runways="07L">
+<!--    <Sid Name="SULU7D.07L" Runways="07L">
       <Sid_Waypoint ID="1">
         <Name>(800)</Name>
         <Type>ConstHdgtoAlt</Type>
@@ -12510,8 +12584,8 @@ unsafe to do so.
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
-    </Sid>
-    <Sid Name="TAU4Q.25C" Runways="25C">
+    </Sid>-->
+    <Sid Name="TAU2Q" Runways="25C">
       <Sid_Waypoint ID="1">
         <Name>FFM</Name>
         <Type>DmeIntc</Type>
@@ -12552,10 +12626,10 @@ unsafe to do so.
         <Speed>0</Speed>
         <Altitude>3500</Altitude>
         <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>above</AltitudeRestriction>
+        <AltitudeRestriction>at</AltitudeRestriction>
         <Hdg_Crs>0</Hdg_Crs>
         <Hdg_Crs_value>258</Hdg_Crs_value>
-        <Flytype>Fly-by</Flytype>
+        <Flytype>Fly-over</Flytype>
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
@@ -12573,7 +12647,7 @@ unsafe to do so.
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
     </Sid>
-    <Sid Name="TAU4Q.25L" Runways="25L">
+    <Sid Name="TAU2Q" Runways="25L">
       <Sid_Waypoint ID="1">
         <Name>FFM</Name>
         <Type>DmeIntc</Type>
@@ -12614,10 +12688,10 @@ unsafe to do so.
         <Speed>0</Speed>
         <Altitude>3500</Altitude>
         <AltitudeCons>0</AltitudeCons>
-        <AltitudeRestriction>above</AltitudeRestriction>
+        <AltitudeRestriction>at</AltitudeRestriction>
         <Hdg_Crs>0</Hdg_Crs>
         <Hdg_Crs_value>258</Hdg_Crs_value>
-        <Flytype>Fly-by</Flytype>
+        <Flytype>Fly-over</Flytype>
         <BankLimit>25</BankLimit>
         <Sp_Turn>Auto</Sp_Turn>
       </Sid_Waypoint>
